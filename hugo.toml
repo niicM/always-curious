@@ -1,0 +1,28 @@
+title = 'Always curious'
+author = 'Nicolas Magee'
+copyright = "Copyright © 2025, Nicolas Magee."
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+
+theme = 'hugo-bearblog'
+
+[markup]
+
+[markup.highlight]
+
+# https://gohugo.io/quick-reference/syntax-highlighting-styles/
+style = 'catppuccin-latte'
+
+lineNos = true
+lineNumbersInTable = false
+codeFences = true
+
+[params]
+mainSections = ["posts"]
+footer = "Never bored"
+hideMadeWithLine = true
+
+[[menu.main]]
+name = "All posts"
+url = "/posts/"
+weight = 1
