@@ -1,5 +1,4 @@
 +++
 title = "Always Courious"
 +++
-
-In this page I hope to show a lot of interesting topics to inspire, and share.
+A place where I can write down ideas. Maybe they can inspire. Maybe they can spark debate.
